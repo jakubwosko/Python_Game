@@ -1,6 +1,6 @@
 #################################################################################################
 # Cyber Shot by Jakub Wosko
-# version 1.06
+# version with AI
 # 2025
 #
 # comment: just wanted to learn Python. it turned out to be one of the most funny things :)
